@@ -175,7 +175,3 @@ PORT=5000
 ## License
 
 This project is built as part of a technical assessment.
-
----
-
-**Trackify** — built as part of the GoGig Software Developer Intern technical task to demonstrate full-stack development, API design, and UI integration.
